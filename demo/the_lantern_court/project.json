@@ -1,0 +1,1625 @@
+{
+  "id": "the_lantern_court",
+  "title": "The Lantern Court",
+  "subtitle": "Demo project",
+  "genre": "Fantasy, Mystery",
+  "subgenres": [
+    "Hidden Identity",
+    "Political Intrigue"
+  ],
+  "genre_tags": [
+    "Fantasy",
+    "Mystery",
+    "Adventure",
+    "Drama"
+  ],
+  "audience": "Young Adult",
+  "target_chapters": 120,
+  "pov": "3rd Person Limited",
+  "status": "Planning",
+  "cover_emoji": "🏮",
+  "cover_gradient": "135deg, #1e1b4b, #312e81",
+  "tagline": "In a city lit by bound memories, the apprentice who tends the lanterns finds one that remembers her.",
+  "premise": "",
+  "themes": [],
+  "cultural_dna": {},
+  "story_dna": {},
+  "inspiration_novels": [],
+  "protagonist_name": "Mira Voss",
+  "protagonist_archetype": "Underestimated apprentice with a hidden gift",
+  "power_system": "Flame-keeping: tending lanterns that hold bound memories",
+  "setup_mode": "manual",
+  "creative_brief": {
+    "premise": "In the harbor city of Veyra, every street is lit by lanterns that hold the bound memories of the dead. Mira Voss is the youngest, poorest apprentice of the Lamplighters' Guild, forbidden to tend anything brighter than a street lamp. When a dying lantern in the old quarter whispers her name, she learns that the Guild has been burning a memory it was meant to keep, and that someone in the Lantern Court wants her silent before she finds out whose.",
+    "themes": [
+      "Memory",
+      "Belonging",
+      "Duty versus truth",
+      "Quiet courage"
+    ],
+    "reader_experience": {
+      "epicness": 6,
+      "comedy": 4,
+      "mystery": 9,
+      "romance": 3,
+      "adventure": 7,
+      "conflict": 6,
+      "tragedy": 5
+    }
+  },
+  "chapters_written": 0,
+  "planning_progress": 0,
+  "health_score": 0,
+  "last_edited": "",
+  "arcs": [
+    {
+      "label": "The Failing Lantern",
+      "description": "Mira hears a name in a dying lantern and starts quietly tracing it.",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "arc_function": "setup",
+      "power_milestone": "First open-glass attempt",
+      "antagonist_tier": "Court clerk",
+      "tension_shape": "rising",
+      "reveals_planned": [
+        "The lantern speaks her name"
+      ],
+      "knowledge_shifts": [],
+      "opens_threads": [
+        "Who burned the memory"
+      ],
+      "closes_threads": [],
+      "genre_contracts": [
+        "a clue the reader can spot early"
+      ]
+    },
+    {
+      "label": "The Court's Invitation",
+      "description": "The Court offers Mira a place, and a price.",
+      "chapters": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "arc_function": "escalation",
+      "power_milestone": "Wick rank",
+      "antagonist_tier": "Lady Sereth Vane",
+      "tension_shape": "rising",
+      "reveals_planned": [],
+      "knowledge_shifts": [],
+      "opens_threads": [],
+      "closes_threads": [],
+      "genre_contracts": []
+    }
+  ],
+  "chapter_skeletons": [
+    {
+      "number": 1,
+      "title": "The Lamp That Knew Her Name",
+      "arc": "The Failing Lantern",
+      "purpose": "Introduce Mira, the Guild, and the lantern that speaks to her.",
+      "chapter_function": "opening hook",
+      "tension": 6,
+      "key_event": "A dying lantern in the Old Quarter whispers Mira's name.",
+      "hook": "Someone has scratched the Court's seal off the lantern's base.",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_type": "setup",
+          "pov_character": "Mira Voss",
+          "tension_level": 3,
+          "pacing": "slow",
+          "estimated_word_count": 700,
+          "structure_notes": "Dusk round of the street lamps; show how little the Guild trusts her."
+        },
+        {
+          "scene_number": 2,
+          "scene_type": "discovery",
+          "pov_character": "Mira Voss",
+          "tension_level": 7,
+          "pacing": "tightening",
+          "estimated_word_count": 900,
+          "structure_notes": "The Old Quarter lantern speaks; Master Hale arrives too quickly."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Rules of the Glass",
+      "arc": "The Failing Lantern",
+      "purpose": "Master Hale refuses to explain; Tam offers an unofficial way in.",
+      "chapter_function": "complication",
+      "tension": 5,
+      "key_event": "Mira is ordered away from the Old Quarter and takes a courier's shortcut back.",
+      "hook": "The shortcut ends at a locked Court archive.",
+      "scenes": [
+        {
+          "scene_number": 1,
+          "scene_type": "conflict",
+          "pov_character": "Mira Voss",
+          "tension_level": 5,
+          "pacing": "steady",
+          "estimated_word_count": 800,
+          "structure_notes": "Hale's warning; Mira's argument."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "The Courier's Price",
+      "arc": "The Failing Lantern",
+      "purpose": "Tam helps for a favor that will cost her later.",
+      "chapter_function": "turn",
+      "tension": 6,
+      "key_event": "A bargain with Tam; the archive's lock is cracked.",
+      "hook": "Inside, a ledger lists a burned lantern under her mother's name.",
+      "scenes": []
+    }
+  ],
+  "story_state": {
+    "active_mysteries": 0,
+    "active_schemes": 0,
+    "running_gags": 0,
+    "foreshadowing": 0,
+    "unresolved_goals": 0,
+    "relationships_changing": 0,
+    "villain_plans": 0,
+    "reader_tension": 0,
+    "target_ending_tension": 92
+  },
+  "planning_health": {
+    "world_depth": 0,
+    "character_depth": 0,
+    "arc_pacing": 0,
+    "power_scaling": 0,
+    "mystery_density": 0,
+    "comedy_balance": 0,
+    "theme_consistency": 0,
+    "reader_hooks": 0
+  },
+  "character_list": [
+    {
+      "name": "Mira Voss",
+      "role": "protagonist",
+      "archetype": "Underestimated apprentice",
+      "motivation": "To prove she belongs in the Guild, and then to learn why the old quarter's lanterns are going dark.",
+      "secret": "She can hear the memories held in a lantern, a gift the Guild believes died out a generation ago.",
+      "faction": "Lamplighters' Guild",
+      "personality_traits": [
+        "stubborn",
+        "observant",
+        "dryly funny"
+      ],
+      "core_belief": "Light is a promise, and a promise is owed to everyone.",
+      "speech_style": "Plain and quick; jokes when frightened.",
+      "banter_style": "Deadpan, with a sting in the last word.",
+      "intro_chapter": null,
+      "tier": "supporting"
+    },
+    {
+      "name": "Master Odrin Hale",
+      "role": "mentor",
+      "archetype": "Gruff keeper of the old rules",
+      "motivation": "To protect the apprentices from what the Court asks of the Guild.",
+      "secret": "He knew Mira's mother and helped hide her gift.",
+      "faction": "Lamplighters' Guild",
+      "personality_traits": [
+        "gruff",
+        "patient",
+        "haunted"
+      ],
+      "core_belief": "A keeper's first duty is silence.",
+      "speech_style": "Short sentences, few adjectives.",
+      "banter_style": "Dry grumbling.",
+      "intro_chapter": null,
+      "tier": "supporting"
+    },
+    {
+      "name": "Lady Sereth Vane",
+      "role": "antagonist",
+      "archetype": "Gracious power behind the throne",
+      "motivation": "To keep the city calm by choosing which memories it is allowed to have.",
+      "secret": "She ordered the burning of the memory Mira is now hearing.",
+      "faction": "The Lantern Court",
+      "personality_traits": [
+        "composed",
+        "persuasive",
+        "ruthless when cornered"
+      ],
+      "core_belief": "A city that remembers everything cannot forgive anything.",
+      "speech_style": "Warm and formal.",
+      "banter_style": "Compliments that close doors.",
+      "intro_chapter": null,
+      "tier": "supporting"
+    },
+    {
+      "name": "Tam Okoro",
+      "role": "ally",
+      "archetype": "Cheerful harbor courier",
+      "motivation": "To keep his sister's lantern alive through the winter.",
+      "secret": "He sells small favors to the Court.",
+      "faction": "Harbor Couriers",
+      "personality_traits": [
+        "quick",
+        "generous",
+        "evasive"
+      ],
+      "core_belief": "Everyone is owed a second chance, once.",
+      "speech_style": "Fast and friendly.",
+      "banter_style": "Teasing.",
+      "intro_chapter": null,
+      "tier": "supporting"
+    },
+    {
+      "name": "Ines Thorne",
+      "role": "ally",
+      "faction": "Lamplighters' Guild",
+      "archetype": "Quiet memory-mender who repairs cracked lanterns. Job: restores damaged glass so the memory inside survives. Tied to: Master Hale, who trained beside her; the chapel workshop in the Old Quarter.",
+      "motivation": "To save the Old Quarter's failing lanterns before the winter dark.",
+      "speech_style": "Soft and measured; answers questions with questions.",
+      "core_belief": "A mended memory is worth ten sealed ones.",
+      "secret": "",
+      "banter_style": "Gentle teasing that never lands on anyone's pain.",
+      "personality_traits": [
+        "patient",
+        "observant",
+        "composed",
+        "skeptical of haste",
+        "bound by duty"
+      ],
+      "intro_chapter": 3,
+      "tier": "supporting",
+      "likeness": "the steadfast healer-mentor archetype",
+      "journey": [
+        {
+          "arc": 1,
+          "standing": "stranger",
+          "realm": "Flame-rank mender; gentle and steady, a rank above Mira",
+          "note": "memory-mender who repairs cracked lanterns; offers a workshop, quiet advice and a place to rest after hard nights"
+        }
+      ],
+      "voice": "low and reassuring, the cadence of someone who has heard confessions and kept them",
+      "voice_lines": [
+        "A wound speaks if you listen carefully enough.",
+        "Odrin was reckless once. I taught him that foresight heals better than remedies."
+      ],
+      "voice_from": "the steadfast healer-mentor archetype",
+      "id": "cp33543939370"
+    },
+    {
+      "name": "Bram Tallow",
+      "role": "merchant",
+      "faction": "Oil Merchants' Row",
+      "archetype": "Shrewd lamp-oil merchant who supplies every district. Job: sells oil, buys news. Tied to: the Couriers and, quietly, the Court's mint.",
+      "motivation": "Keep the oil flowing, whoever holds the Spire.",
+      "speech_style": "Warm, quick, always counting.",
+      "core_belief": "Every debt is a kind of memory.",
+      "secret": "He knows which lanterns the Court ordered burned.",
+      "banter_style": "Bargaining as a sport.",
+      "personality_traits": [
+        "sharp-eyed",
+        "gregarious",
+        "pragmatic",
+        "keenly amused by human weakness",
+        "generous to those he trusts"
+      ],
+      "intro_chapter": 2,
+      "tier": "major",
+      "likeness": "the resourceful merchant-fixer who bridges worlds",
+      "journey": [
+        {
+          "arc": 1,
+          "standing": "stranger",
+          "realm": "Oil merchant with no keeper rank; powerful through supply",
+          "note": "shrewd oil merchant who sells light and buys news; useful, expensive and never quite on anyone's side"
+        }
+      ],
+      "voice": "bright and quick, the rhythm of someone who juggles ten conversations at once and never drops one",
+      "voice_lines": [
+        "Every secret in this city flows through a teacup eventually; I just pour with a steady hand.",
+        "I don't traffic in rumors, friend. I trade in facts. The tea's honest work."
+      ],
+      "voice_from": "the resourceful merchant-fixer who bridges worlds",
+      "id": "cp33543939371"
+    }
+  ],
+  "world_bible": {
+    "world_name": "Veyra, the Lantern City",
+    "power_tiers": [
+      "Ember",
+      "Wick",
+      "Flame",
+      "Beacon"
+    ],
+    "factions": [
+      {
+        "name": "Lamplighters' Guild",
+        "role": "neutral",
+        "description": "Tends the lanterns and keeps the bound memories safe."
+      },
+      {
+        "name": "The Lantern Court",
+        "role": "enemy",
+        "description": "The council that decides which memories the city may keep."
+      },
+      {
+        "name": "Harbor Couriers",
+        "role": "ally",
+        "description": "Runners who carry news and favors between districts."
+      }
+    ],
+    "key_locations": [
+      {
+        "name": "The Old Quarter",
+        "description": "Oldest lanterns; many are failing."
+      },
+      {
+        "name": "The Court Spire",
+        "description": "Seat of the Lantern Court."
+      }
+    ],
+    "rules": [
+      "A lantern holds one memory and burns as long as someone remembers it.",
+      "Only Beacon-rank keepers may open a lantern's glass.",
+      "A memory burned out of a lantern is gone for everyone."
+    ]
+  },
+  "systems": {
+    "power_levels": {
+      "overview": "Flame-keeping is graded by how much light a keeper can hold without burning the memory inside. Rank is shown by the colour of the guild lamp a keeper may carry.",
+      "rules": [
+        "A keeper can only open a lantern of their own rank or lower.",
+        "Opening a lantern too high for you burns its memory."
+      ],
+      "levels": [
+        {
+          "rank": 1,
+          "name": "Ember",
+          "description": "Tends street lamps. Cannot touch a bound memory.",
+          "requirement": "Guild oath and a year of lamp rounds.",
+          "breakthrough": "Hold a flame through a full night without flinching."
+        },
+        {
+          "rank": 2,
+          "name": "Wick",
+          "description": "May read the surface of a lantern: a name, a date, a mood.",
+          "requirement": "Pass the Wick trial in the Guild hall.",
+          "breakthrough": "Read a memory without leaving a mark on the glass."
+        },
+        {
+          "rank": 3,
+          "name": "Flame",
+          "description": "May open lanterns and move memories between them.",
+          "requirement": "Sponsored by a Beacon keeper.",
+          "breakthrough": "Carry a memory across the harbor without losing a word of it."
+        },
+        {
+          "rank": 4,
+          "name": "Beacon",
+          "description": "Keeps the great lanterns of the Court Spire and may seal a memory forever.",
+          "requirement": "Named by the Lantern Court.",
+          "breakthrough": "Seal a memory and still remember what it said."
+        }
+      ]
+    },
+    "techniques": {
+      "overview": "Techniques are small, practical skills of the lamp trade. None of them is a weapon, which is why the Court fears the keepers who learn to use them as one.",
+      "rules": [
+        "Every technique costs the keeper a memory of their own.",
+        "No technique works on a lantern whose owner is still alive."
+      ],
+      "techniques": [
+        {
+          "name": "Quiet Read",
+          "type": "reading",
+          "tier": "Wick",
+          "element": "light",
+          "dao_law": "A memory held is a memory owed.",
+          "effect": "Reads a lantern's surface (name, date, mood) without waking it.",
+          "who_uses": "Every Wick keeper."
+        },
+        {
+          "name": "Steady Flame",
+          "type": "craft",
+          "tier": "Ember",
+          "element": "fire",
+          "dao_law": "",
+          "effect": "Keeps a lamp burning through wind and rain.",
+          "who_uses": "Street lamplighters."
+        },
+        {
+          "name": "Borrowed Light",
+          "type": "transfer",
+          "tier": "Flame",
+          "element": "light",
+          "dao_law": "Light given freely returns.",
+          "effect": "Moves a memory from a failing lantern into a fresh one.",
+          "who_uses": "Master Hale, and Mira without knowing it."
+        }
+      ]
+    },
+    "factions": {
+      "overview": "Three powers share Veyra: the Guild that tends the lanterns, the Court that decides which memories the city may keep, and the Couriers who live between them.",
+      "rules": [
+        "No faction may open a lantern without the other two knowing."
+      ],
+      "factions": [
+        {
+          "name": "Lamplighters' Guild",
+          "type": "guild",
+          "tier": "city",
+          "alignment": "neutral",
+          "description": "Tends the lanterns and keeps the bound memories safe.",
+          "leader": "Grand Keeper Ansel Rook",
+          "specialty": "Memory keeping",
+          "territory": "The lamp houses of every district",
+          "goal": "To keep the lanterns burning and the Court out of the glass.",
+          "secret": "A senior keeper has been burning memories on the Court's orders.",
+          "allies": [
+            "Harbor Couriers"
+          ],
+          "enemies": []
+        },
+        {
+          "name": "The Lantern Court",
+          "type": "council",
+          "tier": "city",
+          "alignment": "antagonist",
+          "description": "Decides which memories the city is allowed to keep.",
+          "leader": "Lady Sereth Vane",
+          "specialty": "Politics and sealing",
+          "territory": "The Court Spire",
+          "goal": "A calm city with a tidy past.",
+          "secret": "It ordered the burning of the memory Mira is hearing.",
+          "allies": [],
+          "enemies": [
+            "Lamplighters' Guild"
+          ]
+        },
+        {
+          "name": "Harbor Couriers",
+          "type": "network",
+          "tier": "district",
+          "alignment": "ally",
+          "description": "Runners who carry news and favors between districts.",
+          "leader": "Old Marta Quill",
+          "specialty": "Messages and shortcuts",
+          "territory": "The harbor stairs",
+          "goal": "Keep every lane open.",
+          "secret": "Some runners sell favors to the Court.",
+          "allies": [
+            "Lamplighters' Guild"
+          ],
+          "enemies": []
+        }
+      ]
+    },
+    "currency_commerce": {
+      "overview": "Veyra pays in lamp oil. Oil is both money and light, which is why a dark street is a poor street.",
+      "rules": [
+        "A measure of oil is accepted in every district.",
+        "Counterfeit oil burns green."
+      ],
+      "entities": [
+        {
+          "name": "Measure of oil",
+          "type": "currency",
+          "tier": "everyday",
+          "description": "The common coin: one measure keeps a street lamp lit for a night.",
+          "trades_in": "Everything",
+          "who_controls": "The Lantern Court's mint"
+        },
+        {
+          "name": "Memory glass",
+          "type": "luxury",
+          "tier": "rare",
+          "description": "Blank lantern glass that can hold a memory; sold only to licensed keepers.",
+          "trades_in": "Licensed keepers",
+          "who_controls": "The Guild"
+        }
+      ]
+    }
+  },
+  "conspiracy": {
+    "reveal_arc": 2,
+    "book_chapters": 120,
+    "arcs_total": 2,
+    "pending": null,
+    "nodes": [
+      {
+        "id": "c33541311560",
+        "parent": null,
+        "type": "final_scheme",
+        "title": "The Memory Architects",
+        "text": "Lady Sereth Vane and the Lantern Court have discovered an ancient technique to bind memories from dead lanterns into new vessels without burning them, allowing them to create a secret archive of stolen consciousness. By selectively erasing inconvenient memories while secretly harvesting the most powerful ones, the Court aims to achieve immortality—living forever through the accumulated knowledge, skills, and identities of Veyra's greatest minds.",
+        "surface": "The Lantern Court wisely preserves the city's most precious memories and maintains order.",
+        "who": "Lady Sereth Vane and the Lantern Court",
+        "chapter": null,
+        "arc": 4,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c33541311561",
+        "parent": "c33541311560",
+        "type": "scheme",
+        "title": "The Burning Protocol—Erasure of Dissent",
+        "text": "The Lantern Court identifies politically dangerous memories—records of resistance, suppressed history, inconvenient truths—and orders their lanterns burned. This selective amnesia allows the Court to rewrite history and prevent the city from remembering why it might rebel.",
+        "surface": "Lanterns naturally fade as memories lose importance; the Court merely manages an inevitable process.",
+        "who": "Lady Sereth Vane, Lantern Court judges",
+        "chapter": null,
+        "arc": 1,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c33541311562",
+        "parent": "c33541311561",
+        "type": "event",
+        "title": "The Protest Forgotten",
+        "text": "A lantern holding the memory of a worker's uprising is deliberately burned by Court order. By morning, the city has forgotten what the crowds were angry about—no record remains, no resentment lingers, no resistance survives.",
+        "surface": "A lantern reached the end of its natural life; the memory faded away.",
+        "who": "Lantern Court enforcers, corrupted Lamplighters",
+        "chapter": 8,
+        "arc": 1,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c33541311563",
+        "parent": "c33541311562",
+        "type": "false_flag",
+        "title": "The Courier's Sedition",
+        "text": "The Court frames a low-level Harbor Courier for spreading seditious rumors about a 'forgotten protest' that most people can no longer recall.",
+        "surface": "A courier was caught spreading dangerous lies designed to incite the people.",
+        "who": "Lantern Court judges",
+        "chapter": 10,
+        "arc": 1,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c33541311564",
+        "parent": "c33541311563",
+        "type": "patsy",
+        "title": "Kess, Ambitious Courier",
+        "text": "A young Harbor Courier with a reputation for asking too many questions and bragging about inside information. She was chosen because she was ambitious enough to investigate dangerous matters but low-status enough that her disappearance would raise few questions. After her arrest, she simply vanishes—officially reassigned, unofficially silenced.",
+        "surface": "A seditious courier spreading lies about the Guild.",
+        "who": "Kess",
+        "chapter": 10,
+        "arc": 1,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c33541311565",
+        "parent": "c33541311562",
+        "type": "clue",
+        "title": "The Lamp That Burns Bright",
+        "text": "In the old quarter, Mira notices a lantern burning far brighter than it should—as if deliberately fed with extra fuel. When she examines it, the glass is freshly sealed, not aged like other lanterns. The metal housing is warm to the touch, suggesting recent maintenance.",
+        "surface": "A well-maintained lantern in decent condition.",
+        "who": "Mira Voss",
+        "chapter": 6,
+        "arc": 1,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c33541311566",
+        "parent": "c33541311562",
+        "type": "breadcrumb",
+        "title": "The Missing Log",
+        "text": "A page from the Lamplighters' maintenance log for the old quarter has been torn out entirely. The gap corresponds exactly to the dates when the bright lantern should have been recorded.",
+        "surface": "A careless maintenance error or water damage.",
+        "who": "Mira Voss, Master Odrin Hale",
+        "chapter": 9,
+        "arc": 1,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c33541311567",
+        "parent": "c33541311562",
+        "type": "mistake",
+        "title": "The Ash Residue",
+        "text": "Beneath the bright lantern, Mira finds a thin layer of unusually dark ash in the base—not the silver residue of ordinary memory-burning, but something darker, heavier, as though the flame has been unnaturally hot. She collects a sample in a paper envelope.",
+        "surface": "Ordinary dust and debris beneath a street lantern.",
+        "who": "Mira Voss",
+        "chapter": 7,
+        "arc": 1,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c33541311568",
+        "parent": "c33541311561",
+        "type": "agent",
+        "title": "Lady Sereth Vane",
+        "text": "The gracious, influential face of the Lantern Court, she orchestrates the burning protocol and identifies targets for erasure. Her courtly manner and rational arguments about preserving the city's most important memories mask a ruthless commitment to absolute power through selective historical amnesia.",
+        "surface": "A wise council member dedicated to preserving Veyra's finest memories and maintaining social order.",
+        "who": "Lady Sereth Vane",
+        "chapter": null,
+        "arc": 1,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c33541311569",
+        "parent": "c33541311560",
+        "type": "scheme",
+        "title": "The Loyal Keepers—Corruption Within the Guild",
+        "text": "Lady Sereth recruits high-ranking Lamplighters to become her agents inside the Guild, promising them access to restricted memories and power. These corrupted Beacon-rank keepers identify which lanterns to burn, provide access to sealed vaults, and redirect investigations to prevent discovery.",
+        "surface": "The Lamplighters' Guild remains unified in its mission to preserve memories; a few ambitious keepers simply have broader interpretations of that mission.",
+        "who": "Lady Sereth Vane, Corrupted Beacon-rank Lamplighters",
+        "chapter": null,
+        "arc": 2,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115610",
+        "parent": "c33541311569",
+        "type": "event",
+        "title": "The Historian's Collapse",
+        "text": "An elderly Guild historian who has been secretly researching the Court's ancient decisions and discovering inconsistencies in the official record falls suddenly ill and dies. Before her lantern—which holds decades of research and dangerous knowledge—can be examined, it is 'burned out' and disposed of by corrupted Keepers acting on Court order.",
+        "surface": "An elderly scholar died of natural causes; her memories simply faded from neglect.",
+        "who": "Lantern Court, corrupted Beacon-rank Keeper",
+        "chapter": 32,
+        "arc": 2,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115611",
+        "parent": "c335413115610",
+        "type": "false_flag",
+        "title": "The Failing Infrastructure",
+        "text": "The Court stages reports of widespread degradation in the ancient archive lanterns, blaming the Lamplighters' Guild for negligent maintenance and claiming that the Court must assume direct supervisory control to prevent further loss.",
+        "surface": "The Guild has allowed priceless memory-lanterns to decay through incompetence.",
+        "who": "Lantern Court propagandists",
+        "chapter": 28,
+        "arc": 2,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115612",
+        "parent": "c335413115611",
+        "type": "patsy",
+        "title": "The Old Guard Lamplighters",
+        "text": "Master Odrin Hale and the conservative Guild keepers are blamed for negligence and for resisting modernization of the Guild's practices. The accusation drives a wedge between them and younger, more ambitious keepers who are sympathetic to Court oversight. Odrin faces internal pressure to retire, and several allies are reassigned.",
+        "surface": "The old-guard Lamplighters are failing in their duty to preserve the city's memories.",
+        "who": "Master Odrin Hale and conservative Lamplighters",
+        "chapter": 29,
+        "arc": 2,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115613",
+        "parent": "c335413115610",
+        "type": "cover_up",
+        "title": "The Sealed Chambers",
+        "text": "The historian's personal chambers and private lantern collection are sealed by Court order under the pretense of structural safety and contamination risk. In truth, Court agents enter at night to systematically remove the most dangerous memories before the chambers are supposedly 'cleaned.' The lanterns are later destroyed.",
+        "surface": "Unsafe conditions require quarantine of the area for the safety of Guild members.",
+        "who": "Lantern Court, Corrupted Beacon-rank Keeper",
+        "chapter": 33,
+        "arc": 2,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115614",
+        "parent": "c335413115610",
+        "type": "clue",
+        "title": "The Ink on Her Hands",
+        "text": "When Mira briefly glimpses the historian's body before it is removed for burial, she notices fresh ink stains on the woman's fingers—clear evidence she was writing or annotating documents up until very recently. Yet the Court claims she has been too ill to work for weeks.",
+        "surface": "An elderly woman showing expected signs of illness.",
+        "who": "Mira Voss",
+        "chapter": 31,
+        "arc": 2,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115615",
+        "parent": "c335413115610",
+        "type": "breadcrumb",
+        "title": "The Duplicate Seal",
+        "text": "Before the chambers are sealed, Mira manages to glimpse a document bearing the Lantern Court's seal among the historian's papers—correspondence discussing 'removal of sensitive materials.' The historian had no official reason to have such direct Court correspondence.",
+        "surface": "A routine administrative letter from the Court.",
+        "who": "Mira Voss",
+        "chapter": 30,
+        "arc": 2,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115616",
+        "parent": "c335413115610",
+        "type": "mistake",
+        "title": "The Hurried Seal",
+        "text": "The seal on the Court's closure notice for the historian's chambers shows signs of having been pressed in haste—the wax is slightly smudged and uneven, suggesting the document was prepared urgently and without the usual ceremonial care.",
+        "surface": "A hastily executed official bureaucratic document.",
+        "who": "Mira Voss",
+        "chapter": 33,
+        "arc": 2,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115617",
+        "parent": "c33541311569",
+        "type": "agent",
+        "title": "The Corrupted Keeper (The Handler)",
+        "text": "A high-ranking Beacon-rank Lamplighter who accepted Sereth's offer in exchange for access to restricted memories and promises of elevation. Acts as the primary liaison between the Court and other corrupted Guild members, facilitating the burning protocol and redirecting investigations. Presents a facade of dutiful service while secretly working for the Court.",
+        "surface": "A diligent, trustworthy and ambitious Beacon-rank Keeper, perhaps overeager to please the Court.",
+        "who": "Unnamed Beacon-rank Lamplighter",
+        "chapter": null,
+        "arc": 2,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115618",
+        "parent": "c33541311560",
+        "type": "scheme",
+        "title": "The Memory Thieves—The Binding Discovery",
+        "text": "Lady Sereth's scholars uncover an ancient technique to transfer memories between lanterns without burning them—a method long thought lost. The Court begins secretly harvesting the most valuable memories: knowledge, power, military secrets, the skills of master craftspeople, the memories of the most influential dead. These stolen consciousnesses are bound into a hidden vault within the Guild's deepest chambers, accessible only to the Court.",
+        "surface": "The Lantern Court is conducting historical research and attempting to preserve and restore ancient texts.",
+        "who": "Lady Sereth Vane, Lantern Court scholars, Corrupted Beacon-rank Keepers",
+        "chapter": null,
+        "arc": 3,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115619",
+        "parent": "c335413115618",
+        "type": "event",
+        "title": "The Stolen Recollection",
+        "text": "A prominent merchant known for his memory of complex trade routes, secret negotiations, and hidden wealth dies. His lantern—potentially containing knowledge worth a fortune—is stolen from the Guild's vault by corrupted Keepers. The theft is made to look like a simple loss or decay.",
+        "surface": "An elderly merchant died; his lantern was misfiled or lost to natural decay.",
+        "who": "Lantern Court, Corrupted Beacon-rank Keepers",
+        "chapter": 68,
+        "arc": 3,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115620",
+        "parent": "c335413115619",
+        "type": "clue",
+        "title": "The Impossible Theft",
+        "text": "The Guild's vault was locked, sealed, and guarded—yet the merchant's lantern vanished. Investigation reveals the lock was opened from the inside, but the official log shows no entry. The key alone could not have been used without authorization.",
+        "surface": "A lantern was simply misfiled or lost in storage.",
+        "who": "Mira Voss, Tam Okoro",
+        "chapter": 70,
+        "arc": 3,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115621",
+        "parent": "c335413115619",
+        "type": "breadcrumb",
+        "title": "The Phantom Visitor",
+        "text": "A night-guard mentions casually to Mira that she saw a high-ranking Beacon-rank Keeper entering the vault late at night, but when checked against the official log, no one was listed as present. When Mira questions the guard further, she is told the guard has been reassigned to the furthest districts.",
+        "surface": "A routine security conversation.",
+        "who": "Night-guard, Mira Voss",
+        "chapter": 71,
+        "arc": 3,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115622",
+        "parent": "c335413115619",
+        "type": "mistake",
+        "title": "The Scraped Entry",
+        "text": "The vault's access log has a page where an entry has been physically scraped away—fresh damage, not aged degradation. With careful examination, Mira can still faintly read the scratched-out Beacon-keeper's name beneath the erasure using light and shadow.",
+        "surface": "Accidental damage to an old administrative log.",
+        "who": "Mira Voss",
+        "chapter": 72,
+        "arc": 3,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115623",
+        "parent": "c335413115618",
+        "type": "event",
+        "title": "The Silent Witness",
+        "text": "A curious young apprentice from the Guild, exploring restricted areas, discovers evidence of memory-binding equipment hidden in a sealed chamber. Before she can report what she has found, she is killed in an apparent drowning accident in the harbor. Her lantern—which would have held her firsthand knowledge of the theft—is burned by the Court and officially declared lost to accidental discharge.",
+        "surface": "A tragic accident; an apprentice was careless with a lantern and drowned while trying to retrieve it.",
+        "who": "Lantern Court enforcers",
+        "chapter": 80,
+        "arc": 3,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115624",
+        "parent": "c335413115623",
+        "type": "false_flag",
+        "title": "The Apprentice's Recklessness",
+        "text": "The Court spreads a sympathetic narrative: the apprentice was drunk, careless, and desperate to recover a damaged lantern she had accidentally ruined. She fell into the harbor during her futile rescue attempt.",
+        "surface": "A sad but unremarkable story of an apprentice's drunken mistake.",
+        "who": "Lantern Court propagandists",
+        "chapter": 81,
+        "arc": 3,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115625",
+        "parent": "c335413115624",
+        "type": "patsy",
+        "title": "The Dead Apprentice",
+        "text": "A curious, observant young apprentice from a poor family with no powerful connections or allies. Selected because her death would be written off as tragic but unremarkable, and her lantern's destruction would raise few questions among those with influence. Her ghost disappears from the Guild's institutional memory almost immediately.",
+        "surface": "A clumsy apprentice who died due to her own carelessness.",
+        "who": "Unnamed young apprentice",
+        "chapter": 80,
+        "arc": 3,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115626",
+        "parent": "c335413115623",
+        "type": "clue",
+        "title": "The Wrong Knot",
+        "text": "When Tam helps Mira investigate the harbor, they find the apprentice's lantern-carrying rope tangled in the dock pilings. But the knot is wrong—it's not the standard harbor knot or the typical lamp-keeper's knot. It's a deliberate tangle, as if the lantern was thrown, not lost.",
+        "surface": "Debris from an accident.",
+        "who": "Mira Voss, Tam Okoro",
+        "chapter": 82,
+        "arc": 3,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115627",
+        "parent": "c335413115623",
+        "type": "breadcrumb",
+        "title": "The Witness's Whisper",
+        "text": "Before her death, the apprentice left a coded message hidden in a maintenance locker, describing what she saw: 'the old glass, moved inside, made to glow without flame.' Mira finds this note after the murder, and it takes her directly toward the truth of memory-binding.",
+        "surface": "A cryptic note in an apprentice's private space.",
+        "who": "Dead apprentice, Mira Voss",
+        "chapter": 83,
+        "arc": 3,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115628",
+        "parent": "c335413115618",
+        "type": "cover_up",
+        "title": "The Restricted Chamber—The Hidden Vault",
+        "text": "The Lantern Court declares a section of the Guild's deepest vaults 'structurally unsafe' due to water infiltration and seals it off from all access. In truth, this chamber now houses the Court's secret archive: lanterns stolen from the dead, bound with memories of power, knowledge, and lost secrets, creating a living library of stolen consciousness that only the Court can access.",
+        "surface": "Old underground chambers require sealing for the safety of Guild members and the preservation of lanterns.",
+        "who": "Lantern Court, Corrupted Beacon-rank Keepers",
+        "chapter": 75,
+        "arc": 3,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115629",
+        "parent": "c335413115618",
+        "type": "agent",
+        "title": "The Court Scholar",
+        "text": "A brilliant researcher serving the Lantern Court who discovered or recovered the ancient memory-binding technique. Now oversees the systematic harvest of valuable memories and their binding into the Court's secret vault. Driven by intellectual curiosity and the allure of immortality through stolen consciousness, they see themselves as humanity's future.",
+        "surface": "A dedicated scholar preserving and restoring Veyra's most important historical memories.",
+        "who": "Lantern Court Scholar",
+        "chapter": null,
+        "arc": 3,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115630",
+        "parent": "c33541311560",
+        "type": "scheme",
+        "title": "The Final Ascension—Mira's Mother and the Unbinding Knowledge",
+        "text": "Lady Sereth discovers that Mira is connected to a lantern that holds memories of Mira's own mother—a former Guild Keeper who learned the memory-binding technique and, realizing its danger, hid the knowledge of how to UNDO the binding in her own consciousness before she disappeared. The Court moves to hunt Mira and burn her mother's lantern before she can unlock that knowledge, ensuring their monopoly on stolen memory remains absolute.",
+        "surface": "Mira is under investigation for crimes against the Guild; a rogue apprentice has been sabotaging lanterns.",
+        "who": "Lady Sereth Vane, Lantern Court, Corrupted Keepers",
+        "chapter": null,
+        "arc": 4,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115631",
+        "parent": "c335413115630",
+        "type": "event",
+        "title": "The Whispered Name—Mira's Mother's Warning",
+        "text": "In the opening arc, a dying lantern in the old quarter whispers Mira's name. The memory it holds is of Mira's mother, a former Beacon-rank Keeper who discovered the binding technique, realized its danger to free will and democracy, and before she died, hid the unbinding knowledge in her own consciousness. The lantern has been slowly failing because the Court has been trying to burn it; it reaches out to Mira in desperation.",
+        "surface": "An old, malfunctioning lantern speaking a living girl's name—a strange glitch or haunting.",
+        "who": "Mira's mother's memory (in the lantern)",
+        "chapter": 4,
+        "arc": 1,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115632",
+        "parent": "c335413115631",
+        "type": "clue",
+        "title": "The Spoken Name",
+        "text": "The lantern does not whisper Mira's name as a random sound—it pronounces it clearly and with urgency, as though deliberately calling to her. Master Odrin's reaction is one of shock and recognition; he knew Mira's mother.",
+        "surface": "A broken lantern malfunctioning in an eerie way.",
+        "who": "Mira Voss, Master Odrin Hale",
+        "chapter": 4,
+        "arc": 1,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115633",
+        "parent": "c335413115631",
+        "type": "breadcrumb",
+        "title": "The Keeper's Daughter",
+        "text": "Master Odrin, when pressed gently by Mira, admits that her mother 'was special' and 'knew things that should have stayed hidden.' He refuses to say more, but his guilt and protectiveness suggest he knew what she discovered and helped her hide it.",
+        "surface": "An old mentor making cryptic remarks about a student's late parent.",
+        "who": "Master Odrin Hale, Mira Voss",
+        "chapter": 25,
+        "arc": 2,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115634",
+        "parent": "c335413115630",
+        "type": "event",
+        "title": "The Hunt for Mira",
+        "text": "Once the Court realizes Mira is connected to the lantern that holds her mother's memories—and that her mother knew how to unbind stolen memories—they move swiftly to silence her. They frame her for crimes, attempt to have her arrested, and pursue her with increasing desperation to prevent her from accessing her mother's lantern.",
+        "surface": "Mira is a criminal saboteur working against the Guild.",
+        "who": "Lantern Court, Corrupted Keepers, Court enforcers",
+        "chapter": 105,
+        "arc": 4,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115635",
+        "parent": "c335413115634",
+        "type": "false_flag",
+        "title": "The Saboteur Unmasked",
+        "text": "The Court stages evidence that Mira has been deliberately damaging lanterns, stealing memories, and working with rebels to undermine the Guild. Forged documents, false witness accounts, and planted evidence paint a portrait of a rogue apprentice acting against the institution.",
+        "surface": "Mira has been caught committing crimes against the Guild and the Court.",
+        "who": "Lantern Court, Corrupted Keepers",
+        "chapter": 105,
+        "arc": 4,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115636",
+        "parent": "c335413115635",
+        "type": "patsy",
+        "title": "Mira Voss, Scapegoat",
+        "text": "Mira is the perfect target for framing because she is young, powerless, and an apprentice with no authority. Her low status makes her accusations against the Court impossible to credit. By framing her, the Court simultaneously removes the threat she poses and discredits any investigation into their activities.",
+        "surface": "A rogue apprentice sabotaging the Guild from within.",
+        "who": "Mira Voss",
+        "chapter": 105,
+        "arc": 4,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115637",
+        "parent": "c335413115634",
+        "type": "clue",
+        "title": "The Forged Commission",
+        "text": "Mira finds a document bearing her forged signature, supposedly ordering the burning of specific lanterns. The handwriting is clearly not hers, but the seal and ink appear authentic—suggesting someone with access to official materials fabricated the evidence in haste.",
+        "surface": "Proof of Mira's guilt and intent.",
+        "who": "Mira Voss",
+        "chapter": 107,
+        "arc": 4,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115638",
+        "parent": "c335413115634",
+        "type": "breadcrumb",
+        "title": "The Hidden Message",
+        "text": "Tam brings Mira a message from Master Odrin, hidden in a routine Harbor Courier shipment of archive supplies. It reads: 'Your mother knew the unbinding. The lantern in the old quarter is dying. The Court will burn it. You must reach it first and read what she left for you.' It signs only 'O.'",
+        "surface": "A routine message between Guild members.",
+        "who": "Master Odrin Hale, Tam Okoro, Mira Voss",
+        "chapter": 109,
+        "arc": 4,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115639",
+        "parent": "c335413115634",
+        "type": "mistake",
+        "title": "The Ink Analysis",
+        "text": "Mira compares the forged commission to older Guild documents and notices the ink is subtly different—too bright, too fresh, lacking the subtle oxidation that comes with age. The Court fabricated the evidence recently and without access to proper archival supplies.",
+        "surface": "A careful examination of an incriminating document.",
+        "who": "Mira Voss",
+        "chapter": 108,
+        "arc": 4,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115640",
+        "parent": "c335413115630",
+        "type": "agent",
+        "title": "Master Odrin Hale",
+        "text": "Mira's mentor and a high-ranking Lamplighter who knew Mira's mother and learned of the binding technique. He has spent years secretly protecting Mira and working against the Court from within, guiding her toward the truth while maintaining a facade of loyalty. He is the keeper of dangerous secrets and the last ally the Court cannot fully control.",
+        "surface": "A gruff, old-fashioned Guild master dedicated to the traditional rules and protective of his apprentices.",
+        "who": "Master Odrin Hale",
+        "chapter": null,
+        "arc": 4,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115641",
+        "parent": "c335413115630",
+        "type": "agent",
+        "title": "Tam Okoro, the Courier",
+        "text": "A Harbor Courier with deeper connections to the resistance against the Court than initially apparent. Tam has been secretly gathering intelligence about the Court's crimes and becomes Mira's crucial ally in the final confrontation, using the Couriers' networks to distribute the truth about memory-theft across Veyra.",
+        "surface": "A cheerful, useful Harbor Courier with a knack for finding things and moving between districts.",
+        "who": "Tam Okoro",
+        "chapter": null,
+        "arc": 4,
+        "status": "planned",
+        "sources": []
+      },
+      {
+        "id": "c335413115642",
+        "parent": "c335413115630",
+        "type": "agent",
+        "title": "Mira's Mother (Memory in the Lantern)",
+        "text": "A brilliant former Beacon-rank Keeper who discovered the memory-binding technique and realized its existential danger: in the wrong hands, it could grant immortality to tyrants and allow the erasure of entire histories. She hid the knowledge of how to undo the binding in her own consciousness, binding herself as a living safeguard against the technique's misuse. She has been waiting for someone—her daughter—to find her.",
+        "surface": "A faded memory held in an old lantern, a ghost of the past.",
+        "who": "Mira's mother",
+        "chapter": 4,
+        "arc": 1,
+        "status": "planned",
+        "sources": []
+      }
+    ],
+    "updated": 1793354682
+  },
+  "lore": {
+    "chapters": {
+      "1": {
+        "where": "The Old Quarter of Veyra, among the city's oldest lanterns where the streets are crooked and worn; Tallow Row at the edges of the Guild's regular routes",
+        "when": "Dusk, during the evening lamp-lighting round when the city transitions from daylight to darkness and the lanterns wake",
+        "atmosphere": "Gathering dark, the city quieting as lamplight replaces sun, an undertone of urgency in the sound of footsteps on stone",
+        "summary": "A dying lantern in the Old Quarter whispers Mira's name and warns of a memory being burned out; Master Hale arrives with suspicious speed to stop her from learning more.",
+        "background": [
+          "The Guild's rule forbidding Mira to tend bright lanterns is a deliberate restriction—a way to keep her away from old memories and the people who tend them",
+          "Someone is burning a memory the Guild was meant to protect; this is not natural forgetting but deliberate erasure by someone with access to the lantern",
+          "The Old Quarter's lanterns are the oldest in the city and the most fragile—their memories are at greatest risk of being burned away and lost forever",
+          "Mira is already entangled in whatever secret is being erased; her name is in the dying memory, which means the conspiracy touches her directly"
+        ],
+        "reader_hidden": [
+          "What the small object is that the hand pressed into the light",
+          "Whose hand it was and whether they were burning the memory or trying to protect it",
+          "Why Mira's name is spoken in this memory—what connection or obligation binds her to its secret",
+          "Who is actively burning memories and their position within or above the Guild",
+          "What the Guild officially knows versus what they are actively hiding"
+        ],
+        "why": [
+          {
+            "event": "Mira is assigned to light street lamps on her usual circuit",
+            "because": "She is the lowest apprentice in the Lamplighters' Guild; street lamps are deliberately simple work, kept dim and common, given to those not trusted with valuable memories"
+          },
+          {
+            "event": "The lantern in the Old Quarter speaks Mira's name as its flame gutters and dies",
+            "because": "The memory inside it is fragmenting as it burns away; it reaches for the person whose name is woven through it before it goes dark forever"
+          },
+          {
+            "event": "The lantern warns 'Don't let them' and Mira sees a vision of a hand pressing something into light before the image burns away",
+            "because": "Someone is actively burning the memory out of the lantern—erasing it from the glass before it can fade naturally—and the dying memory fights back with its last strength to show her what is happening"
+          },
+          {
+            "event": "Master Hale emerges from the dark at a run, half-dressed, and orders Mira away from the lamp",
+            "because": "He was already positioned nearby, watching this lantern, expecting it to speak or fail; he arrived to intercept anyone who heard its final words and prevent them from acting on that knowledge"
+          }
+        ],
+        "knowledge": [
+          {
+            "who": "Mira",
+            "knows": "A lantern spoke her name, warned of a memory being burned, and showed her a vision of a hand and something small before dying",
+            "hidden_from": "Master Hale, the Guild, anyone else watching"
+          },
+          {
+            "who": "Master Hale",
+            "knows": "This specific lantern would fail tonight or speak tonight, and he positioned himself to suppress whatever it might reveal",
+            "hidden_from": "Mira"
+          },
+          {
+            "who": "The memory in the lantern",
+            "knows": "What the small object is, whose hand held it, why it was pressed into light, and what it means—everything the conspiracy needs erased",
+            "hidden_from": "Mira, the reader"
+          }
+        ],
+        "history": [
+          {
+            "ts": 1793354177,
+            "note": "Drafted from the plan and the written chapter"
+          }
+        ],
+        "status": "draft",
+        "updated": 1793354177
+      }
+    },
+    "world": [
+      {
+        "id": "w3541483380",
+        "title": "The Binding Ritual",
+        "kind": "power",
+        "text": "A memory enters a lantern only through the Binding, performed by Beacon-rank keepers who touch a dying person's forehead as their final breath leaves. The keeper's steady hand guides the memory into the glass—a visible shimmer of light. Once bound, the memory burns only as long as someone in the city still holds it in mind; when the last living person who remembers that moment dies, the lantern gutters out on its own.",
+        "status": "draft"
+      },
+      {
+        "id": "w3541483382",
+        "title": "The Three Circles of Guild Rank",
+        "kind": "rule",
+        "text": "The Lamplighters' Guild divides into Wicks (apprentices, tend common street lamps), Keepers (may open lantern glass and maintain ordinary memories), and Beacons (alone may bind new memories and authorize burning). The hierarchy is absolute—a Wick who opens a closed lantern answers to the Court. Promotion requires a Beacon's sponsorship and proof of absolute loyalty to the Guild's oath.",
+        "status": "draft"
+      },
+      {
+        "id": "w3541483384",
+        "title": "The Lantern Court",
+        "kind": "place",
+        "text": "The Court sits atop the Harbor District as both council and tribunal, where the Guild answers to city magistrates and the merchant houses who fund the lantern-keeping. The Court's word shapes which memories are deemed worthy of binding and which are allowed to burn. Lady Sereth Vane holds the Court's ear as advisor—a position she's maintained through three magistrates.",
+        "status": "draft"
+      },
+      {
+        "id": "w3541483386",
+        "title": "The Forgetting Tax",
+        "kind": "custom",
+        "text": "When a memory must be burned by Guild decree, the authorized keeper drinks a draft of moonflower wine before approaching the lantern, dulling their own memory of what they destroy. It is the price of the burning: you cannot consciously remember the act of destruction itself. This custom ensures no keeper can later claim they remember the burned memory, proving it truly gone.",
+        "status": "draft"
+      },
+      {
+        "id": "w3541483388",
+        "title": "Memory Echoes in the Old Quarter",
+        "kind": "history",
+        "text": "The Old Quarter's lanterns are the city's oldest, holding memories bound before the modern Guild codes were written. These early lanterns often contain fragmentary, overlapping memories—multiple lives glimpsed from a single moment. The quarter is considered unstable; lanterns there sometimes flicker with whispers not fully their own, a sign of deteriorating bindings that no current keeper knows how to repair.",
+        "status": "draft"
+      },
+      {
+        "id": "w35414833810",
+        "title": "The Keeper's Debt",
+        "kind": "custom",
+        "text": "Every Guild keeper swears to preserve the memories they tend and to tend them faithfully until they themselves are bound. Breaking this oath—by allowing a memory to burn through neglect, or worse, through authorization to burn—marks a keeper for life in the ledgers. A Beacon who authorizes unauthorized burning risks losing rank, or losing themselves when their own memory is finally bound in judgment.",
+        "status": "draft"
+      },
+      {
+        "id": "w35414833812",
+        "title": "The Whisper Threshold",
+        "kind": "power",
+        "text": "A dying lantern—one whose memory is fading because fewer minds hold it—sometimes calls out before it gutters. Keepers believe the memory becomes desperate, seeking a new witness to reignite its light. Only those with strong connection to the memory (blood, trauma, deep witness) tend to hear the whisper. The Guild dismisses such accounts as exhaustion and grief, though some Beacons secretly believe otherwise.",
+        "status": "draft"
+      }
+    ]
+  },
+  "cast_pending": [
+    {
+      "name": "Dessa Orrin",
+      "role": "rival-ally",
+      "faction": "Lamplighters' Guild",
+      "archetype": "Ambitious senior apprentice who outranks Mira and resents her gift. Job: top of the Wick trial list. Tied to: Master Hale, who keeps passing her over.",
+      "motivation": "To be named Flame-rank before anyone else in her year.",
+      "speech_style": "Clipped and formal; sharpens when challenged.",
+      "core_belief": "Rank is earned in public.",
+      "secret": "She has seen Mira read a lantern and told no one.",
+      "banter_style": "Cool one-liners with a sting.",
+      "personality_traits": [
+        "competitive",
+        "proud",
+        "honor-bound",
+        "sharp-tongued in challenge",
+        "loyal after trust is earned"
+      ],
+      "intro_chapter": 4,
+      "tier": "supporting",
+      "likeness": "the proud rival who becomes an ally",
+      "journey": [
+        {
+          "arc": 1,
+          "standing": "stranger",
+          "realm": "Wick-rank apprentice, one step ahead of Mira; disciplined and focused",
+          "note": "senior apprentice who resents Mira's gift, competes with her in the Wick trial and has to rely on her when the Court closes in"
+        }
+      ],
+      "voice": "quick and clear with an edge of provocation; grows steady and genuine when speaking of principles",
+      "voice_lines": [
+        "If you're strong enough to stand across from me, you're strong enough to stand with me.",
+        "Honor isn't words or lineage. It's what you do when nobody's watching."
+      ],
+      "voice_from": "the proud rival who becomes an ally",
+      "id": "cp33543939482"
+    },
+    {
+      "name": "Pell Harrow",
+      "role": "supporting",
+      "faction": "none (Old Quarter street child)",
+      "archetype": "Wary child who sleeps beside the failing lanterns for the warmth. Job: sees everything that happens on Tallow Row after dark. Tied to: Mira, who leaves oil for him.",
+      "motivation": "To keep his corner of the street lit.",
+      "speech_style": "Short and suspicious; tells the truth when it costs nothing.",
+      "core_belief": "Adults only remember what is useful.",
+      "secret": "He saw who scratched the Court's seal off the lantern.",
+      "banter_style": "Dares.",
+      "personality_traits": [
+        "quick-witted",
+        "suspicious",
+        "quietly brave",
+        "resourceful",
+        "loyal in small, practical ways"
+      ],
+      "intro_chapter": 5,
+      "tier": "minor",
+      "likeness": "the innocent whose suffering raises the moral stakes",
+      "journey": [
+        {
+          "arc": 1,
+          "standing": "stranger",
+          "realm": "no rank; untrained, young and vulnerable",
+          "note": "a clever child whom Mira protects; a recurring reminder that the conflict costs more than skill alone"
+        }
+      ],
+      "voice": "high and fast, mixing wariness with humor; grows quieter and more thoughtful around people who genuinely listen",
+      "voice_lines": [
+        "You carry that lamp like it matters. Nobody does that here.",
+        "If you're going to help, stay. I've been left hanging before, and it hurts worse the second time."
+      ],
+      "voice_from": "the innocent whose suffering raises the moral stakes",
+      "id": "cp33543939483"
+    }
+  ],
+  "revision_checklist": [],
+  "last_revision_check": {
+    "chapter_range": "1-1",
+    "at": "2026-10-30 10:02:42"
+  },
+  "antagonists": {
+    "overview": "Opposition in The Lantern Court comes from above and beside: the Court silences threats through proxies and bureaucracy, while jealous keepers and ambitious functionaries use rules against Mira daily. The threats escalate from annoyance to survival as Mira moves closer to the burned memory and Lady Sereth Vane realizes she cannot be bought or broken.",
+    "rules": [
+      "Mira encounters an obstacle in every chapter—a fee, a rule, a rival's interference, or a closed door.",
+      "The Court never acts openly; it uses the Guild's own rank system to silence her.",
+      "No single opponent can face Mira alone without a technique, rank advantage, or narrative authority.",
+      "Any antagonist who burns a memory to stop her becomes evidence of the conspiracy.",
+      "Opposition escalates tier-by-tier: petty obstruction gives way to ideological attacks, then enforcement, then orchestration, then tyranny."
+    ],
+    "roster": [
+      {
+        "id": "ap33543264360",
+        "name": "Gavren Torr",
+        "tier": "annoyance",
+        "archetype": "The Petty Bureaucrat",
+        "who": "A Flame-rank supervisor in the Guild's oil stores and duty rosters. He has absolute authority over Mira's shifts, assignments, and equipment. He resents her ambition because he stopped advancing at Flame-rank.",
+        "personality": "Rule-bound, pedantic, secretly bitter. Hides jealousy under procedure and code citations. Feels legitimate only when citing regulations.",
+        "speech": "Clipped and formal, heavy with guild code. 'As per section three, subsection...' Speaks in bureaucratic clauses.",
+        "tells": "Adjusts his oil-stained keeper's vest obsessively. Eyes the Beacon-rank keepers with envy. Carries a small leather notebook where he records every perceived infraction.",
+        "wants": "To preserve his small authority. Prevent Mira from rising above apprentice station before she embarrasses the Guild.",
+        "strength": "Complete dominion over apprentice schedules, equipment allocation, and supply chains. Can make her life miserable through legitimate procedure.",
+        "weakness": "Entirely dependent on the rule book; any crisis requiring improvisation or rule-breaking panics him. No initiative without precedent.",
+        "how_they_obstruct": [
+          "Assigns Mira the most dangerous failing lanterns in the Old Quarter each chapter, consuming her time and focus on Guild work instead of investigation.",
+          "Claims a 'clerical error' has exhausted her oil ration, forcing her to beg for supplies or work without margin for error.",
+          "Orders her to inventory the entire stores—a multi-day task—whenever she tries to leave her post or ask questions."
+        ],
+        "annoyance_beats": [
+          "He marks her late to her shift (she wasn't) and docks her pay; she has no recourse.",
+          "He assigns a cracked Wick-rank lantern, claiming apprentices must 'learn precision,' knowing it will fail and damage her reputation.",
+          "He reviews her record and finds 'inadequate attention to detail' in her notes, recommending formal retraining."
+        ],
+        "escalation": [
+          "Stage 1: Petty obstruction through schedule and equipment sabotage (chapters 1-3)",
+          "Stage 2: Formal charges of negligence filed against her apprentice record (chapters 4-5)",
+          "Stage 3: His falsified numbers are discovered, but the Court investigates and quietly clears him (chapter 6)",
+          "Stage 4: Revealed as a minor informant for the Court; he passes Mira's discoveries up the chain (chapter 8)"
+        ],
+        "first_chapter": 1,
+        "active_chapters": "1-10",
+        "comeuppance": "When his fraud is exposed, Gavren is demoted to Ember-rank—stripped of all authority but allowed to keep his position. He spends his remaining chapters as a porter, serving under a keeper he once dismissed. His jealousy becomes his obsolescence.",
+        "ties": "Guild politics; silent Court informant; rival to Master Odrin Hale's favor",
+        "corpus_sources": [
+          "The Hunger Games: the petty official (Effie) enforcing rules as proxy for greater power"
+        ],
+        "status": "planned",
+        "realm": "The Guild keeps"
+      },
+      {
+        "id": "ap33543264361",
+        "name": "Callyx Merren",
+        "tier": "annoyance",
+        "archetype": "The Ambitious Rival",
+        "who": "A Wick-rank apprentice with merchant-family patronage. Mira's age but one rank above, she treats Mira as competition and beneath notice. Her family's money secures her advantages.",
+        "personality": "Competitive to cruelty. Charming with superiors, cutting when unseen. Sees Mira as a threat to her trajectory toward Flame-rank.",
+        "speech": "Quick and sharp, layered with false sweetness. Uses Mira's name mockingly: 'Mira, *darling*, aren't you a bit young for that sector?'",
+        "tells": "Flips her hair when she's won a small victory. Laughs in a particular high pitch when insulting. Constantly touches a silver ring from her mother when anxious.",
+        "wants": "To rank up to Flame before Mira, prove that patronage (not talent) determines success, and isolate Mira from peers.",
+        "strength": "Genuine skill with lamps, well-supplied by her family's wealth, backed by merchant-family connections. She can poison peer relationships and create social isolation.",
+        "weakness": "Entirely dependent on her family's name and support; if that patronage is questioned, she becomes irrational and insecure.",
+        "how_they_obstruct": [
+          "Gossips that Mira 'talked back to Gavren' and 'is going to get herself burned out,' isolating her from other apprentices.",
+          "Deliberately introduces small errors when 'helping' Mira with a lamp, making the memory flicker and making Mira look careless.",
+          "Volunteers to partner with Mira on assignments, then takes credit to Master Odrin, undermining Mira's reputation for competence."
+        ],
+        "annoyance_beats": [
+          "Catches Mira leaving late and loudly comments, 'Wonder what she's looking for? Desperate apprentices work strange hours.'",
+          "'Borrows' Mira's lamp under comparison pretense and forgets to return it, forcing Mira to ask for it back in front of witnesses.",
+          "Spreads a rumor that Master Odrin is reviewing Mira's apprenticeship for dismissal—pure invention—to watch Mira panic."
+        ],
+        "escalation": [
+          "Stage 1: Social cruelty and sabotage; Mira is excluded from group assignments (chapters 2-3)",
+          "Stage 2: Callyx directly interferes with Mira's work, damaging her reputation with masters (chapters 4-5)",
+          "Stage 3: Callyx learns Mira is investigating the burned memory and reports it to Gavren as rule-breaking (chapter 6)",
+          "Stage 4: Callyx is subtly warned off by the Court (via Gavren) and stops bothering Mira—her sudden silence signals danger escalating (chapter 7)"
+        ],
+        "first_chapter": 2,
+        "active_chapters": "2-7",
+        "comeuppance": "Callyx's family loses a major merchant contract due to an unrelated scandal. Her patronage evaporates; she's exposed as unremarkable without it. She ranks to Wick-rank but never higher, forever stuck at the rank Mira will eventually surpass—a living reminder that patronage is not destiny.",
+        "ties": "Guild apprentice rank competition; merchant-family patronage; informant for Gavren",
+        "corpus_sources": [
+          "Parable of the Sower: the privileged peer whose advantages make them cruel; adapted for apprentice rivalry"
+        ],
+        "status": "planned",
+        "realm": "The Guild keeps"
+      },
+      {
+        "id": "ap33543264362",
+        "name": "Kess Halvin",
+        "tier": "rival",
+        "archetype": "The Ideological Enforcer",
+        "who": "A Flame-rank keeper serving the Court's doctrine. She publicly opposes Mira's investigation, framing it as heresy against the Lantern faith. She sees herself as the city's spiritual protector.",
+        "personality": "Dogmatic and theatrical. Believes the Court is infallible. She mistakes obedience for wisdom.",
+        "speech": "Formal and oratorical, heavy with doctrine. 'The Light demands purity. Mira's questions blaspheme the Flame itself.' She pauses for dramatic effect.",
+        "tells": "Keeps her lantern-glass obsessively polished. Touches the Court's silver chain around her neck when making proclamations. Always stands with hands visible, as if ready to demonstrate light.",
+        "wants": "To publicly defeat Mira's investigation and earn promotion to Beacon-rank by crushing this heresy. She wants the Court to recognize her as doctrine's defender.",
+        "strength": "Flame-rank means she can open lanterns Mira cannot. She has the Court's authority behind her words. She can organize public censure and recruit informants.",
+        "weakness": "She relies entirely on doctrine and authority; if the burned memory is proven, her entire foundation collapses. She panics under creative thinking. Her signature technique is Steady Flame—she burns memories to prevent access, but burning evidence is admissible proof of guilt.",
+        "how_they_obstruct": [
+          "She publicly challenges Mira's findings in the Guild hall, calling them 'reckless shadow-chasing' and requesting a formal investigation into Mira's conduct instead of the memory.",
+          "She attempts to open the disputed lantern herself—a public demonstration of truth—but finds it already burned. She frames this as proof Mira invented the whole story.",
+          "She recruits younger keepers to report any 'heretical speech' from Mira, creating a network of watchers and eroding her credibility."
+        ],
+        "annoyance_beats": [
+          "Kess spreads that Mira 'misheard' the lantern—a common apprentice error—and needs retraining on basic technique.",
+          "She formally requests Mira's rank review, claiming no apprentice should be accessing High-Court secrets.",
+          "She publishes a letter in Guild news denouncing 'those who sow doubt' without naming Mira, but the message is unmistakable."
+        ],
+        "escalation": [
+          "Stage 1: Public ideological opposition; Kess challenges Mira's credibility in front of witnesses (chapters 3-4)",
+          "Stage 2: Kess escalates to formal charges; she demands the Guild investigate Mira as a misconduct case (chapter 5)",
+          "Stage 3: Kess orders other keepers to deny Mira access to the Old Quarter lanterns and seal the investigation sector (chapter 6)",
+          "Stage 4: Kess learns Mira has found proof; she uses Steady Flame technique to burn the evidence-lantern before Mira can open it, committing the crime she's defending against (chapter 8)"
+        ],
+        "first_chapter": 3,
+        "active_chapters": "3-8",
+        "comeuppance": "When the truth emerges and Kess's use of Steady Flame is exposed, she's revealed as the exact heretic she condemned. The Court distances itself from her; her promotion to Beacon-rank is denied. She's reassigned to tend the Outer Lanterns, far from the city center, maintaining memories no one important remembers—a living exile for someone who craved authority.",
+        "ties": "Lantern Court hierarchy; ideological gatekeeping; attempted memory-burning (crime)",
+        "corpus_sources": [
+          "1984: the ideological enforcer who polices thought and doctrine"
+        ],
+        "status": "planned",
+        "realm": "The Court spire"
+      },
+      {
+        "id": "ap33543264363",
+        "name": "Vex Croft",
+        "tier": "enemy",
+        "archetype": "The Efficient Enforcer",
+        "who": "A Beacon-rank keeper in the Court's private service, cold and professional. She enforces the Court's will through surveillance, threats, and violence. She's been assigned to collect Mira—dead or compliant, the Court doesn't care which.",
+        "personality": "Emotionless and pragmatic. She sees people as problems to solve. She doesn't enjoy cruelty, but she won't hesitate to inflict it.",
+        "speech": "Sparse and direct, no wasted words. 'Stop looking. Or I'll stop you.' She lets silence finish her threats.",
+        "tells": "Wears Beacon-rank blue under her coat. Her personal lantern is never lit—unusual for a keeper and deliberate. Scars crisscross her wrists—old cuts from opening high-rank lanterns. She never blinks during confrontations.",
+        "wants": "To complete the assignment: silence Mira. Motivation doesn't interest her; the Court pays well for discretion.",
+        "strength": "Beacon-rank means she can open any lantern and extract any memory with Quiet Read. She's backed by the Court's authority and resources. She's efficient and leaves no evidence.",
+        "weakness": "No technique works on a lantern whose owner is still alive—if Mira controls her own memories, Vex cannot break her. She also hesitates before killing, a moment when conscience flickers—a flaw Mira can exploit. She has no creativity; she executes plans but cannot improvise.",
+        "how_they_obstruct": [
+          "She follows Mira through the city, visible enough to terrify but not openly threatening—psychological pressure to make her abandon investigation.",
+          "She visits Master Odrin and subtly warns him that mentoring Mira is dangerous. She leaves her Beacon-rank lamp on his table when she leaves—a silent threat.",
+          "She intercepts Mira and uses Quiet Read on a nearby lantern owned by someone Mira cares about, extracting painful memories to demonstrate the cost of refusal."
+        ],
+        "annoyance_beats": [
+          "Vex appears at the edges of Mira's vision—a market, a street corner—always watching, always silent.",
+          "A lantern Mira tended suddenly fails; Vex is standing nearby, having used Borrowed Light to drain it as a warning.",
+          "Vex visits Mira's home and leaves a single item on her doorstep: a broken piece of lantern glass."
+        ],
+        "escalation": [
+          "Stage 1: Silent surveillance and psychological pressure; Vex establishes her presence without direct action (chapters 5-6)",
+          "Stage 2: Vex coerces or intimidates people close to Mira, making threats through proxies (chapter 7)",
+          "Stage 3: Vex directly confronts Mira and uses Quiet Read on a nearby lantern as threat demonstration (chapter 8)",
+          "Stage 4: The Court orders Mira's death; Vex corners her in the Old Quarter for a final confrontation (chapter 10)"
+        ],
+        "first_chapter": 5,
+        "active_chapters": "5-10",
+        "comeuppance": "Mira defeats Vex by weaponizing the world's rules: she uses Borrowed Light to drain her own memories, making herself unreadable to Quiet Read. Vex is forced to fight as a skilled human, not a Beacon-keeper, and in that moment of uncertainty, Mira escapes. Vex survives but is shattered—her one certainty (her rank power) is compromised. The Court dismisses her as a failure.",
+        "ties": "Court enforcer; the direct violence threat; the consequence of getting too close to truth",
+        "corpus_sources": [
+          "Neuromancer: the efficient assassin hired to kill the hero; adapted for memory-extraction antagonist"
+        ],
+        "status": "planned",
+        "realm": "The Court's hidden hand"
+      },
+      {
+        "id": "ap33543264364",
+        "name": "Magistrate Lyran",
+        "tier": "nemesis",
+        "archetype": "The Hidden Architect",
+        "who": "Head of the Court's Memory Purification Doctrine. Ostensibly a historical position about preserving worthy memories. In truth, he orchestrated the burning of the memory Mira found and directs all steps to hide it. Few outside the Court know his name.",
+        "personality": "Intellectually arrogant and patient. He sees the city as a text to be edited for the greater good. He believes burning uncomfortable memories serves social harmony.",
+        "speech": "Erudite and measured, heavy with metaphors about light and preservation. 'Some memories are candles meant to be lit; others are ashes best left unburned.' He writes formal motions, never speaks directly.",
+        "tells": "Wears a Beacon-rank lamp containing a memory of his mother—the only lantern he will never allow opened. He writes constantly in a private journal. His hands are stained with old oil that never washes out.",
+        "wants": "To maintain the fiction that the burned memory never existed and to eliminate anyone who discovers it. He genuinely believes this protects Veyra from destabilizing knowledge.",
+        "strength": "Authority over the Court's decisions and the power to direct Vex, Kess, and Gavren. He thinks three moves ahead and is never visibly connected to threats against Mira. He can manipulate the Guild's leadership through his network of informants.",
+        "weakness": "His arrogance makes him believe no one can threaten him. He underestimates Mira because she's young and powerless. He depends entirely on his network of informants and fails when they're compromised or turn against him. He has no field skills.",
+        "how_they_obstruct": [
+          "Through intermediaries (Gavren, Kess, Vex), he orchestrates obstacles: inspections, restrictions, warnings. Mira never sees him but feels his hand in everything.",
+          "He spreads a narrative that the burned memory was 'a defect in documentation' and the incident is closed. He makes it sound like routine bureaucracy, dull and unremarkable.",
+          "He isolates Mira from Master Odrin by having the Court quietly review some of Odrin's past memories 'for historical accuracy'—a veiled threat to Odrin's career."
+        ],
+        "annoyance_beats": [
+          "A new regulation emerges: apprentices cannot access the Court's records without Flame-rank permission, which Mira doesn't have.",
+          "Rumors spread that the Court is reviewing her apprenticeship record 'as a formality' for an upcoming promotion review.",
+          "Oil prices spike inexplicably, putting financial pressure on Mira and forcing her to work longer hours with less time to investigate."
+        ],
+        "escalation": [
+          "Stage 1: Behind-the-scenes obstruction; the Court tightens records access and adds bureaucratic barriers (chapters 4-5)",
+          "Stage 2: Lyran orders Vex to watch Mira; he escalates pressure through his network (chapters 6-7)",
+          "Stage 3: Lyran frames a false narrative: Mira is mentally unstable, and the 'lantern voices' are symptoms of lamp-sickness (chapter 8)",
+          "Stage 4: Lyran orders Vex to execute Mira if she gets closer to the truth; the final confrontation becomes inevitable (chapter 10)"
+        ],
+        "first_chapter": 4,
+        "active_chapters": "4-10",
+        "comeuppance": "Mira discovers that Lyran himself burned the memory—she finds the ash in his private chambers—and the truth becomes public. The City Council demands answers; Lyran is stripped of his position and authority. He's permitted to live but loses everything: his status, his access to his mother's lantern (opened and archived), and his narrative. He becomes living proof that the city survived the burned memory, that truth was stronger than the lie he built.",
+        "ties": "Court inner leadership; the conspiracy architect; hidden war against the Guild's autonomy",
+        "corpus_sources": [
+          "The Handmaid's Tale: the ideological leader who orchestrates oppression from the shadows"
+        ],
+        "status": "planned",
+        "realm": "The Court's private council"
+      },
+      {
+        "id": "ap33543264365",
+        "name": "Lady Sereth Vane",
+        "tier": "boss",
+        "archetype": "The Gracious Tyrant",
+        "who": "The figurehead of the Lantern Court, beloved by Veyra for eloquent speeches about shared memory and light. Behind that grace, she's ruthless: she approved the memory-burning and will burn Mira if it protects the Court's authority. She genuinely believes she's protecting the city.",
+        "personality": "Charming and intelligent in public, maternal and eloquent. In private, cold and willing to destroy anyone who threatens power. She mistakes control for protection.",
+        "speech": "Public: lyrical and warm, always 'the light we share' and 'the memories that bind us.' Private: sharp and calculating, no sentiment. She never lies directly—she redefines truth.",
+        "tells": "She wears a pendant containing the city's founding memory—Veyra's most precious memory. She touches it when she's lying. She smiles without moving her eyes. When angry, her voice gets softer, not louder.",
+        "wants": "To remain the city's beloved leader. She genuinely believes the burned memory would destabilize Veyra; she sees silencing Mira as necessary governance. She wants to prove the Court is infallible.",
+        "strength": "Complete authority over the Lantern Court, the Guild's leadership, and most of the city's opinion. She can marshal resources, spin narratives, and order deaths without legal consequence. She's a Beacon-rank keeper skilled with Steady Flame—she can burn memories even Vex cannot touch. Her narrative power is absolute.",
+        "weakness": "Her power depends entirely on the city's belief in her narrative. If truth becomes undeniable, her authority crumbles instantly. She's emotionally bound to Veyra—she genuinely loves it—which makes her a victim of her own lies. When forced to choose between her city and her pride, she wavers.",
+        "how_they_obstruct": [
+          "She gives a public speech defending the Court's decisions, framing Mira's investigation as dangerous adolescent curiosity. The entire city turns against Mira.",
+          "She offers Mira a choice: renounce her findings, accept a comfortable position as a Court-affiliated keeper (silencing her with comfort), or be branded a heretic.",
+          "She personally visits Master Odrin and begs him to stop mentoring Mira, framing it as protective—'Her path only leads to darkness.' She weaponizes Odrin's love for Mira."
+        ],
+        "annoyance_beats": [
+          "Sereth's portrait appears throughout the city with the caption 'The Light We Trust.' It feels like an accusation toward Mira.",
+          "News spreads that the Court is commissioning a monument to 'memory purity'—a direct message about who's impure.",
+          "Sereth publicly awards Kess Halvin a commendation for 'steadfast defense of doctrine,' publicly endorsing Mira's enemy."
+        ],
+        "escalation": [
+          "Stage 1: Sereth publicly frames Mira's investigation as adolescent hysteria, poisoning public opinion (chapters 6-7)",
+          "Stage 2: Sereth offers Mira the comfortable cage—prestige without freedom—as a path to silence (chapter 8)",
+          "Stage 3: When Mira refuses, Sereth orders her arrest on trumped-up charges; the city turns against her (chapter 9)",
+          "Stage 4: Sereth orders Vex to kill Mira and anyone who helped her, including Master Odrin. The final confrontation becomes a fight for Veyra's future (chapter 10)"
+        ],
+        "first_chapter": 6,
+        "active_chapters": "6-10",
+        "comeuppance": "Mira forces Sereth to choose: burn Mira and lose Odrin (revealing the Court will burn what it claims to protect), or let truth emerge and lose power. Sereth chooses to step down rather than become what she feared. She lives in exile, tending lanterns in the Harbor Courier district—far from power, finally honest about memory. Her authority is shattered, but her character might be restored. The city learns that even gracious leaders can be tyrants.",
+        "ties": "Court figurehead; the ordered memory hierarchy; the cost of absolute power",
+        "corpus_sources": [
+          "The Hunger Games: the benevolent dictator whose grace masks ruthlessness; adapted for hierarchical memory-governance"
+        ],
+        "status": "planned",
+        "realm": "The Court spire—the highest light"
+      }
+    ]
+  },
+  "timeline": {
+    "events": [
+      {
+        "id": "s33546828240",
+        "chapter": 1,
+        "end_chapter": null,
+        "category": "personal",
+        "title": "Gavren's Assignment",
+        "text": "Opens the arc by establishing Mira's lowest rank and isolation within the Guild hierarchy. Makes later moments feel transgressive—when she hears her name from a bright lantern, it's a violation of the order Gavren enforces. Also explains why she's alone in the old quarter where the conspiracy's evidence is hidden.",
+        "mc_sees": "Gavren Torr hands her a route assignment: only the dimmest street lamps in the poorest quarter. She will never be trusted with anything brighter."
+      },
+      {
+        "id": "s33546828241",
+        "chapter": 2,
+        "end_chapter": null,
+        "category": "character",
+        "title": "One Above",
+        "text": "Introduces the first rival antagonist and shows Mira has no protection from internal sabotage. Foreshadows the later revelation that some Keepers actively work against her; sets up a theme of danger from within the Guild itself, not just from outside.",
+        "mc_sees": "Callyx Merren, one rank above her, deliberately leaves broken oil cans for Mira and then reports her incompetence to Gavren. Mira sees that the Guild's hierarchy is built on crushing those below."
+      },
+      {
+        "id": "s33546828242",
+        "chapter": 3,
+        "end_chapter": null,
+        "category": "character",
+        "title": "A Question from Tam",
+        "text": "Establishes her one ally outside the hierarchy and her hunger to understand the deeper truth of the lanterns. Plants the idea that there are other perspectives—through the Harbor Couriers, not the Guild's doctrine. Sets up why Tam becomes crucial to her survival later.",
+        "mc_sees": "Tam Okoro, a harbor courier, asks why she looks sad. She confides that she wants to understand the lanterns, not just tend them. Tam listens like no one in the Guild does."
+      },
+      {
+        "id": "s33546828243",
+        "chapter": 5,
+        "end_chapter": null,
+        "category": "reveal",
+        "title": "The Beacon-Rank Stranger",
+        "text": "Shows the danger escalating after the lantern whispers her name in ch 4. The Court deployed Vex to assess the threat; her silent watch makes clear that Mira has been flagged as dangerous. Raises tension and forces Mira to understand her investigation isn't private or safe.",
+        "mc_sees": "A woman in Court colors—Vex Croft, full Beacon-rank regalia—watches Mira work in the old quarter. When Mira notices, Vex doesn't hide. She just turns and leaves. The message is clear: Mira is seen."
+      },
+      {
+        "id": "s33546828244",
+        "chapter": 9,
+        "end_chapter": null,
+        "category": "breakthrough",
+        "title": "Glass Breaking",
+        "text": "The power milestone moment (First open-glass attempt). Mira breaks the apprentice-to-Keeper boundary by force of will and desperation. The memory she reads ties to her mother or the burning protocol, deepening the mystery. After this, she's no longer just an apprentice—she's someone who can do what only trained Keepers do. The Court will notice she's crossed a line they cannot tolerate.",
+        "mc_sees": "Desperate to read what burned in the bright lantern, Mira breaks the sealed glass—forbidden, impossible, insane. Memory floods her mind: a woman's face, voices, fragments of truth. When it clears, she's gasping, terrified. She's done something irreversible."
+      },
+      {
+        "id": "s33546828245",
+        "chapter": 11,
+        "end_chapter": null,
+        "category": "plot",
+        "title": "The Silencing",
+        "text": "Shows the real cost of digging too deep. Not a dramatic arrest, but an absence—a person deleted from the Guild's records. Forces Mira to understand that survival means either surrendering or going all-in. Closes arc 1 by raising the stakes to personal annihilation; sets up her commitment to the truth in arc 2.",
+        "mc_sees": "A keeper Mira knows—someone she's seen in the old quarter—has vanished. Gone from the roster, gone from duty. Whispers say they were asking questions. Mira realizes the watcher is watching the investigators. They can be erased."
+      }
+    ]
+  },
+  "character_count": 6,
+  "critique_notes": [
+    {
+      "id": "crit_demo_1",
+      "chapter": 1,
+      "tag": "pacing",
+      "rule": "Open each chapter on a concrete image or action within two sentences; keep the explanation of the Guild for later.",
+      "critique": "The first page spends too long on rank and rules before anything happens."
+    },
+    {
+      "id": "crit_demo_2",
+      "chapter": 1,
+      "tag": "dialogue",
+      "rule": "Mira jokes when she is frightened: give her one dry line in every tense scene, never more than one.",
+      "critique": "Mira sounds too solemn in the lantern scene."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; script-src 'unsafe-inline'">
+<title>NovelTea Engine: connect</title>
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; }
+  body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: #f3f4f6; color: #111827;
+         font: 14px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; -webkit-app-region: drag; }
+  main { width: min(520px, 92vw); background: #fff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 28px 28px 24px;
+         box-shadow: 0 10px 30px rgba(17, 24, 39, 0.08); -webkit-app-region: no-drag; }
+  h1 { margin: 0 0 4px; font-size: 20px; }
+  p { margin: 0 0 16px; color: #4b5563; }
+  label { display: block; font-size: 12px; font-weight: 600; color: #374151; margin-bottom: 6px; }
+  input { width: 100%; padding: 10px 12px; font: inherit; border: 1px solid #d1d5db; border-radius: 8px; background: #fff; }
+  input:focus { outline: 2px solid #7c3aed; outline-offset: 1px; border-color: #7c3aed; }
+  button { margin-top: 14px; padding: 10px 18px; font: inherit; font-weight: 600; color: #fff; background: #7c3aed; border: 0;
+           border-radius: 8px; cursor: pointer; }
+  button:disabled { opacity: 0.6; cursor: default; }
+  .err { margin: 0 0 14px; padding: 10px 12px; color: #991b1b; background: #fef2f2; border: 1px solid #fecaca; border-radius: 8px; }
+  .hint { margin-top: 18px; font-size: 12px; color: #6b7280; }
+  code { background: #f3f4f6; padding: 1px 5px; border-radius: 4px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>NovelTea Engine</h1>
+  <p>This app is a window onto a NovelTea Engine server. Enter the address of one that is running.</p>
+  <div id="err" class="err" hidden></div>
+  <form id="f">
+    <label for="url">Server address</label>
+    <input id="url" autocomplete="off" spellcheck="false" placeholder="127.0.0.1:7432">
+    <button id="go" type="submit">Connect</button>
+  </form>
+  <div class="hint">
+    Start the server first (see the README): <code>python main.py</code> in <code>NovelTeaApp/backend</code>.<br>
+    A server on another computer must be started with <code>NOVELTEA_HOST=0.0.0.0</code>, ideally behind a private network such as Tailscale.<br>
+    Press <code>Ctrl+Shift+K</code> any time to come back to this screen.
+  </div>
+</main>
+<script>
+  const q = new URLSearchParams(location.search)
+  const url = document.getElementById('url'), err = document.getElementById('err'), go = document.getElementById('go')
+  url.value = q.get('url') || ''
+  if (q.get('error')) { err.textContent = q.get('error'); err.hidden = false }
+  document.getElementById('f').addEventListener('submit', async (e) => {
+    e.preventDefault()
+    go.disabled = true; go.textContent = 'Connecting…'; err.hidden = true
+    const r = await window.electron.connectServer(url.value)
+    if (!r || !r.ok) { err.textContent = (r && r.error) || 'Could not connect.'; err.hidden = false; go.disabled = false; go.textContent = 'Connect' }
+  })
+  url.focus(); url.select()
+</script>
+</body>
+</html>

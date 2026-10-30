@@ -1,0 +1,56 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+
+# Build output (the PyInstaller spec, backend/NovelTeaEngine.spec, IS committed)
+dist/
+build/
+NovelTeaApp/backend/webui/
+NovelTeaApp/backend/build_status.json
+NovelTeaApp/backend/build_button.log
+*.log
+
+# Secrets and local settings (keys live in ~/.noveltea-engine, outside the repo, but just in case)
+.env
+.env.*
+*.pem
+*.key
+client.json
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# The corpus folder ships empty: the pipeline scripts stay, everything you build in it is yours and is not committed
+corpus/raw/*
+corpus/novels/*
+corpus/projects/*
+corpus/generated/*
+!corpus/raw/.gitkeep
+!corpus/novels/.gitkeep
+!corpus/projects/.gitkeep
+!corpus/generated/.gitkeep
+corpus/accounts/
+corpus/codex_accounts/
+corpus/cache/
+corpus/checkpoints/
+corpus/blueprints/
+corpus/_*/
+corpus/_*.json
+corpus/*.db
+corpus/*.db.*
+corpus/*status*.json
+corpus/extraction_queue.json
+
+# Local databases (the search index is built on your machine)
+*.db
+*.sqlite
+*.sqlite3
