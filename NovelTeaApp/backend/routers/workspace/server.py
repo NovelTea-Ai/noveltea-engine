@@ -309,7 +309,8 @@ def metrics():
     now = time.time()
     vm = psutil.virtual_memory()
     perf = _perf_info()
-    disk = psutil.disk_usage(os.path.splitdrive(str(CORPUS_PATH))[0] + "\\" if os.path.splitdrive(str(CORPUS_PATH))[0] else "C:\\")
+    disk_at = next((str(p) for p in (CORPUS_PATH, *CORPUS_PATH.parents) if p.exists()), os.path.abspath(os.sep))   # works on any OS
+    disk = psutil.disk_usage(disk_at)
     dio, nio = psutil.disk_io_counters(), psutil.net_io_counters()
     read_bps = write_bps = sent_bps = recv_bps = 0.0
     if _rates["t"] is not None and now > _rates["t"]:
